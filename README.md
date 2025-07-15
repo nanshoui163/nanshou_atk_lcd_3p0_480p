@@ -1,4 +1,4 @@
-# 自制屏幕屏幕-适配正点原子mipi的开发板
+# 自制屏幕屏幕-适配正点原子mipi接口的开发板
 
 
 
@@ -29,10 +29,6 @@ https://www.bilibili.com/video/BV1Jr3ezkEjP
 ## 开源链接：
 
 硬件链接：https://oshwhub.com/nanshou/atk_3inch_screen
-
-
-
-
 
 
 
@@ -93,7 +89,7 @@ https://www.bilibili.com/video/BV1Jr3ezkEjP
 
 ## 参考资料
 
-- 正点原子开源的板卡及其资料
+- 正点原子开源的板卡及其资料，演示ui为正点原子qt程序
 - 触摸驱动代码参考：https://gitee.com/fengmoxi/tspi-d395c930uv0/tree/master/cst128a_cust
 
 
