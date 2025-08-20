@@ -26,6 +26,10 @@ b站演示视频：
 
 https://www.bilibili.com/video/BV1Jr3ezkEjP
 
+外壳演示链接：
+
+https://www.bilibili.com/video/BV1ZvePzyEGZ/
+
 ## 开源链接：
 
 硬件链接：https://oshwhub.com/nanshou/atk_3inch_screen
@@ -58,6 +62,8 @@ https://www.bilibili.com/video/BV1Jr3ezkEjP
 
 # 食用方法
 
+## 代码
+
 - 方法1：合并patch目录下的补丁。
 
   ```
@@ -69,6 +75,10 @@ https://www.bilibili.com/video/BV1Jr3ezkEjP
 - 方法2：参考kernel下的代码，复制/替换对应文件
 
 
+## 外壳
+
+3d打印或者其他打印方式，参考外壳演示视频https://www.bilibili.com/video/BV1ZvePzyEGZ/
+
 # 注意事项
 
 - 焊接完成，先测电源是否短路再上电。
@@ -77,13 +87,23 @@ https://www.bilibili.com/video/BV1Jr3ezkEjP
 
 
 
+# 版本信息
+
+### V1.0版本：
+
+实测了rk3506板卡，显示触摸功能正常，可以完美使用。
+
+
+
+### V1.1 版本
+
+优化外壳设计
+
+
+
 # 总结
 
-此为1.0版本，实测了rk3506板卡，显示触摸功能正常，可以完美使用。
-
 理论支持原子其他板卡，如rk3568，rv1126等。时间精力有限，暂时没有测试。
-
-本项目完全开源，欢迎评论交流。
 
 
 
